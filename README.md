@@ -130,6 +130,6 @@ python -m pytest  # 168 tests
 | Name | Email | GitHub | LinkedIn |
 |---|---|---|---|
 | Adit Jain | aditjain2005@gmail.com | [@Adit-Jain-srm](https://github.com/Adit-Jain-srm) | [LinkedIn](https://www.linkedin.com/in/-adit-jain) |
-| Amina Yekhlef | ayekhlef1@gmail.com | -- | [LinkedIn](http://www.linkedin.com/in/ayekhlef) |
+| Amina Yekhlef | ayekhlef1@gmail.com | [@Amina1094](https://github.com/Amina1094) | [LinkedIn](http://www.linkedin.com/in/ayekhlef) |
 | Daria Dackiewicz | dackiewiczd@outlook.com | [@daria-dot](https://github.com/daria-dot) | [LinkedIn](https://linkedin.com/in/daria-dackiewicz-85616a2a2) |
 | Ridhima Kathait | ridhima.kathait@gmail.com | [@Ridhimakathait](https://github.com/Ridhimakathait) | [LinkedIn](https://www.linkedin.com/in/ridhima-kathait-3229561a0/) |
